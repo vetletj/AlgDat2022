@@ -8,5 +8,3 @@ public class HelloAlgDat2022 {
         }
     }
 }
-
-//Source code for lectures and the exercises Algorithms and datastructures course at OsloMet 2022
